@@ -71,9 +71,12 @@ Sou fascinado por tecnologia desde muito cedo e tenho grande interesse em desenv
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
-<p align="left">
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -81,6 +84,7 @@ Sou fascinado por tecnologia desde muito cedo e tenho grande interesse em desenv
     style="padding-right:10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusborgis&theme=tokyonight" 
   />
+    
   <img 
     align="left" 
     alt="Tecnologias mais usadas" 
@@ -88,8 +92,3 @@ Sou fascinado por tecnologia desde muito cedo e tenho grande interesse em desenv
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusborgis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-<br/>
-<br/>
-
----
