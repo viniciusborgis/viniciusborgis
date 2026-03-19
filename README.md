@@ -80,15 +80,14 @@ Sou fascinado por tecnologia desde muito cedo e tenho grande interesse em desenv
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
-    style="padding-right:10px;" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api?username=viniciusborgis&show_icons=true&theme=tokyonight" 
   />
     
   <img 
     align="left" 
     alt="Tecnologias mais usadas" 
-    height="180" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusborgis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
